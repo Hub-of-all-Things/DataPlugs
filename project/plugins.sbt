@@ -8,7 +8,7 @@ addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.6.13")
 
 addSbtPlugin("org.scoverage" % "sbt-scoverage" % "1.5.1")
 addSbtPlugin("org.scoverage" % "sbt-coveralls" % "1.2.2")
-addSbtPlugin("org.scalariform" % "sbt-scalariform" % "1.8.1")
+addSbtPlugin("org.scalariform" % "sbt-scalariform" % "1.8.3")
 addSbtPlugin("com.timushev.sbt" % "sbt-updates" % "0.3.3")
 
 // Web plugins
